@@ -1,6 +1,7 @@
 # FocuZzz - Study Timer & Productivity App
 
 A beautiful, modern Pomodoro timer built with React, TypeScript, and Tailwind CSS. FocuZzz helps you stay focused and productive with customizable timer modes, session tracking, and a delightful user experience.
+### [Try it here](https://focuzzz.netlify.app/)
 
 ![FocuZzz App Screenshot](image.png)
 
